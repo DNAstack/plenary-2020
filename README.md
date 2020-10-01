@@ -24,3 +24,7 @@ POST this as a JSON body to `http://localhost:8089/search`
 	"query": "SELECT * FROM search_postgres_pgpc.ontology.axiom"
 }
 ```
+
+## Check out the documentation and source code:
+
+https://github.com/dnastack/ga4gh-search-adapter-presto
